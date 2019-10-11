@@ -33,6 +33,8 @@ Grab the individuals (or record some or all of your own) and assemble a sample p
 
 
 
+
+
 <img src="images/start-your-project.png">
 
 
@@ -56,8 +58,9 @@ Grab the individuals (or record some or all of your own) and assemble a sample p
 
 
 
-- Create a new track, then duplicate for a total of 5 tracks, then label them
-- Import music
+- Create a new track, then duplicate it to create as many tracks as you'll want (here 5)
+- Start importing the audio you files you have (dragging files in is the easiest way to do this)
+  - Import music
 - Record intro and outro
   - Find a good level and distance—make sure you're not distorting
 - Import main podcast audio
@@ -73,6 +76,7 @@ Grab the individuals (or record some or all of your own) and assemble a sample p
 
 
 - Remove unwanted portions of a tracks
+- Use Noise Gate to eliminate white noise
 - Move track regions to where you want them—go for a stairstep down formation
 - AFTER everything is in place, create the fade-in and fade-out for music tracks
 - Checkout the master track—it is applying compression and setting your overall volume
