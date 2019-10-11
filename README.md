@@ -76,6 +76,7 @@ Note the ? tool in the upper left
 - Start importing the audio files you have (dragging files in from Finder is the easiest way to do this)
   - If you haven't yet, download the audio files [here](https://support.apple.com/kb/PH24957?locale=en_US).
 - Place tracks from top to bottom according to the order they will occur in your episode—it should look like stair steps going down from left to right
+- TIP: You'll be much better off in GarageBand if you spend ample time storyboarding your podcast before you even start recording and editing.
 
 
 
