@@ -66,7 +66,7 @@ Note the ? tool in the upper left
 
 ### 2) Setup Your Tracks
 
-
+<img src="images/drag-in-new-audio.png">
 
 - Duplicate your new track to create as many tracks as you'll need
 - Start importing your the audio files you have (dragging files in is the easiest way to do this)
