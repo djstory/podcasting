@@ -1,25 +1,31 @@
 # Podcasting with GarageBand
 
+Brief intro here.
+
 
 
 ## Recording for Speech
 
 
 
+### Recording Environment
+
+- Find a quiet space—the smaller and more padded the better to minimize echo
+
+- Some options:
+
+  - [DSC podcasting room](https://guides.library.ucsc.edu/DSC/Podcasting)
+
+  - Your dorm room or apartment
+
+  - Inside a (non-moving!) car
+
+    
+
 ### Microphone Options
 
 * Yeti and other USB mics ([borrow in the DSC](https://guides.library.ucsc.edu/DSCEquipment/Home#s-lg-box-wrapper-22925798))
 * Your phone
-
-
-
-### Recording Environment
-
-* Find a quiet space—the smaller and more padded the better to minimize echo
-* Some options:
-  * [DSC podcasting room](https://guides.library.ucsc.edu/DSC/Podcasting)
-  * Your dorm room or apartment
-  * Inside a car
 
 
 
@@ -29,9 +35,11 @@ Listen to the a complete sample project.
 
 Grab the individuals (or record some or all of your own) and assemble a sample project.
 
-### Start Your Project
+Note the ? tool in the upper left
 
 
+
+### 1) Start Your Project
 
 
 
@@ -39,18 +47,11 @@ Grab the individuals (or record some or all of your own) and assemble a sample p
 
 
 
-- Open GarageBand and start a new project
-  - Don't select "Voice," select empty project and check detail tab
-- Select an audio project and check your input setting
-- Setup GB for podcasting (rather than recording music)
-  - Turn off metronome and counter, set to time (minutes and seconds)
-  - Turn off master effects
-  - Save your project
-- Note the explore tool
-
-
-
-### Setup Your Tracks
+- Open GarageBand and start a new project—don't select Voice, select Empty Project
+- For Track Type, select Audio (the default)
+- Do some simple setups to make GB friendly for podcasting (rather than recording music)
+  - Turn off metronome and counter
+  - Set to time (minutes and seconds) instead of bars
 
 
 
@@ -58,16 +59,62 @@ Grab the individuals (or record some or all of your own) and assemble a sample p
 
 
 
-- Create a new track, then duplicate it to create as many tracks as you'll want (here 5)
-- Start importing the audio you files you have (dragging files in is the easiest way to do this)
-  - Import music
-- Record intro and outro
+- Duplicate your new track to create as many tracks as you'll need
+- Save your project
+
+
+
+### 2) Setup Your Tracks
+
+
+
+- Duplicate your new track to create as many tracks as you'll need
+- Start importing your the audio files you have (dragging files in is the easiest way to do this)
+  - Place tracks from top to bottom according to the order they will occur in your episodeOPTIONAL: Record your own intro and outro
+- 
   - Find a good level and distance—make sure you're not distorting
 - Import main podcast audio
 
 
 
-### Edit
+### 3) Record and Edit Your Speaking Tracks
+
+
+
+#### *Recording*
+
+* Select the track you want to record in and select Record Enable (small red button on track)
+  * If the Record Enable button is not visible, you can set it to appear by right clicking on the track head and selecting Configure Track Head
+* Rename the track something descriptive
+* Check that your mic input levels are good (loud enough but without getting into the red)
+* Place the cursor at the start of the track and hit record
+
+
+
+#### *Editing*
+
+* When you have a take that you like, cut off the areas of the track you don't want
+  * To select an area to remove, put the cursor on side, right click, and select Split at Playhead
+  * Select the region you don't want and hit delete
+* Open the sound library and select the patch you want for the track (Narration Vocal is ideal)
+* In Smart Controls (at bottom of screen), us the track's Noise Gate to reduce any white noise
+
+
+
+### 4) Import Your Additional Audio
+
+
+
+* With a Finder window open nearby, drag in the additional audio files you want to use
+  * Intro or outro tracks
+  * Jingles
+  * Sound bites
+  * Interview audio
+* Arrange the tracks in order from top to bottom according to when you plan for them to appear
+
+
+
+### 5) Edit and Arrange All Tracks
 
 
 
@@ -75,15 +122,19 @@ Grab the individuals (or record some or all of your own) and assemble a sample p
 
 
 
-- Remove unwanted portions of a tracks
-- Use Noise Gate to eliminate white noise
-- Move track regions to where you want them—go for a stairstep down formation
-- AFTER everything is in place, create the fade-in and fade-out for music tracks
-- Checkout the master track—it is applying compression and setting your overall volume
+- Slide track regions left to right to where they should appear—go for a stairstep down formation
+- After everything is in place, use the volume automation tool to set volumes for particular portions and create fade in and fade out
+  - If Automation tools are not visible, you can show them from the Mix menu at the top
+  - Make sure the blue automation button is turned on
+  - Make sure that Volume is selected from the drop down menu below
+  - Click the track audio to reveal the automation bar
+  - Drag it up and down to change overall volume on the entire track
+  - Click on the line in the specific places you want the volume to go up and down
+  - Drag the nodes up or down until you have the right volume for the each section
 
 
 
-### Save and Export
+### 6) Save and Export
 
 
 
@@ -91,8 +142,9 @@ Grab the individuals (or record some or all of your own) and assemble a sample p
 
 
 
-- In the top menu, select Share > Save to Disc
-- Export as MP3
+- Save your project
+- In the top menu, select Share > Save Song to Disk
+- Save as an MP3
 
 
 
@@ -106,7 +158,11 @@ Grab the individuals (or record some or all of your own) and assemble a sample p
 
 ## Additional Resources
 
-https://resonaterecordings.com/2018/07/garageband-tutorial-for-podcasting/
+GarageBand for Podcasters tutorial: https://www.buzzsprout.com/blog/garageband-podcast-tutorial
+
+Eliminating background noise: https://www.youtube.com/watch?v=ZlX2AdC-4Xg
+
+More details about the automation tool: https://www.youtube.com/watch?v=ceQdiQJgfHk
 
 
 
