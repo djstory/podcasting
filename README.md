@@ -1,12 +1,14 @@
 # Podcasting with GarageBand
 
-Brief intro here.
+Welcome to the *podcasting with GarageBand* workshop. Today we'll go through the basics of how to record and edit audio in GarageBand. We'll do this with a few sample audio files I've created, which you can download [here]([https://github.com/djstory/podcasting/blob/master/sample-audio/All%20files.zip](https://github.com/djstory/podcasting/blob/master/sample-audio/All files.zip)).
+
+We'll start by talking briefly about recording setups for speech. Then I'll run through how I put together the sample podcast files in GarageBand. Then I'll invite you to do the same—and I'll be around to help and answer questions as you work.
+
+So, here goes...
 
 
 
 ## Recording for Speech
-
-
 
 ### Recording Environment
 
@@ -52,10 +54,11 @@ Note the ? tool in the upper left
 - Do some simple setups to make GB friendly for podcasting (rather than recording music)
   - Turn off metronome and counter
   - Set to time (minutes and seconds) instead of bars
+- Note the ? tool in the upper left—it can be useful figuring out what particular buttons do
 
 
 
-<img src="images/drag-in-new-audio.png">
+<img src="images/duplicate-tracks.png">
 
 
 
@@ -68,12 +71,11 @@ Note the ? tool in the upper left
 
 <img src="images/drag-in-new-audio.png">
 
-- Duplicate your new track to create as many tracks as you'll need
-- Start importing your the audio files you have (dragging files in is the easiest way to do this)
-  - Place tracks from top to bottom according to the order they will occur in your episodeOPTIONAL: Record your own intro and outro
-- 
-  - Find a good level and distance—make sure you're not distorting
-- Import main podcast audio
+
+
+- Start importing the audio files you have (dragging files in from Finder is the easiest way to do this)
+  - If you haven't yet, download the audio files [here](https://support.apple.com/kb/PH24957?locale=en_US).
+- Place tracks from top to bottom according to the order they will occur in your episode—it should look like stair steps going down from left to right
 
 
 
@@ -87,6 +89,7 @@ Note the ? tool in the upper left
   * If the Record Enable button is not visible, you can set it to appear by right clicking on the track head and selecting Configure Track Head
 * Rename the track something descriptive
 * Check that your mic input levels are good (loud enough but without getting into the red)
+* Also be sure to mute any other tracks that you don't want to hear as you record
 * Place the cursor at the start of the track and hit record
 
 
@@ -94,7 +97,7 @@ Note the ? tool in the upper left
 #### *Editing*
 
 * When you have a take that you like, cut off the areas of the track you don't want
-  * To select an area to remove, put the cursor on side, right click, and select Split at Playhead
+  * To select an area to remove, put the cursor on one side of it, right click, and select Split at Playhead
   * Select the region you don't want and hit delete
 * Open the sound library and select the patch you want for the track (Narration Vocal is ideal)
 * In Smart Controls (at bottom of screen), us the track's Noise Gate to reduce any white noise
@@ -151,18 +154,18 @@ Note the ? tool in the upper left
 ### If There's Time...
 
 - Open a new empty project
-- Throw together your own jingle with GB loops
+- Throw together your own jingle with GarageBand loops
 - Export as MP3 and drag into your main project
 
 
 
 ## Additional Resources
 
-GarageBand for Podcasters tutorial: https://www.buzzsprout.com/blog/garageband-podcast-tutorial
-
-Eliminating background noise: https://www.youtube.com/watch?v=ZlX2AdC-4Xg
-
-More details about the automation tool: https://www.youtube.com/watch?v=ceQdiQJgfHk
+* Sample audio files for this tutorial: https://support.apple.com/kb/PH24957?locale=en_US
+* Some helpful keyboard shortcuts: https://support.apple.com/kb/PH24957?locale=en_US
+* GarageBand for Podcasters tutorial: https://www.buzzsprout.com/blog/garageband-podcast-tutorial
+* Eliminating background noise: https://www.youtube.com/watch?v=ZlX2AdC-4Xg
+* More details about the automation tool: https://www.youtube.com/watch?v=ceQdiQJgfHk
 
 
 
