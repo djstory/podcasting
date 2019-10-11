@@ -2,11 +2,11 @@
 
 
 
-##Recording for Speech
+## Recording for Speech
 
 
 
-###Microphone Options
+### Microphone Options
 
 * Yeti and other USB mics ([borrow in the DSC](https://guides.library.ucsc.edu/DSCEquipment/Home#s-lg-box-wrapper-22925798))
 * Your phone
