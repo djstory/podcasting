@@ -1,6 +1,6 @@
 # Podcasting with GarageBand
 
-Welcome to the *podcasting with GarageBand* workshop. Today we'll go through the basics of how to record and edit audio in GarageBand. We'll do this with a few sample audio files I've created, which you can download [here](https://github.com/djstory/podcasting/blob/master/sample-audio/All%20files.zip](https://github.com/djstory/podcasting/blob/master/sample-audio/All files.zip).
+Welcome to the *podcasting with GarageBand* workshop. Today we'll go through the basics of how to record and edit audio in GarageBand. We'll do this with a few sample audio files I've created, which you can download [here](https://github.com/djstory/podcasting/blob/master/sample-audio/All%20files.zip).
 
 We'll start by talking briefly about recording setups for speech. Then I'll run through how I put together the sample podcast files in GarageBand. Then I'll invite you to do the same—and I'll be around to help and answer questions as you work.
 
